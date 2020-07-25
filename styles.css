@@ -1,0 +1,35 @@
+body{
+	background-color:#C8C8C8;
+	line-height:2em;
+}
+a{
+	text-decoration: none;
+}
+.profile{
+	BORDER:5px;
+	width:80%;
+	margin:auto;
+}
+.personal{
+	padding-top:20px;
+	padding-left:200px;
+	padding-right:200px;
+	padding-bottom:10px;
+	background-color:#00BFFF;
+	border-radius:20px;
+}
+.main{
+	background-color:#9ACD32;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-radius:20px;
+}
+.table{
+	padding-top:20px;
+	padding-bottom:40px;
+	background-color:#FF8C00;
+	border-radius:20px;
+}
+.ad{
+	padding-left:20px
+}
